@@ -13,5 +13,3 @@ Opciones:
 
 
 ```
-
-#Puto el que lee
